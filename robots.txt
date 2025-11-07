@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nniv-cmyk.github.io/sitemap.xml
